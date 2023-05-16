@@ -16,7 +16,7 @@ Certifique-se de implementar todas as funcionalidades e testar o seu programa pa
 
 | Entrada | Saída |
 | :-- | :-- |
-|<pre><br>3<br>3 1 2 2 0<br>4,3 2,4 3 5,12 6,23<br>5 4 5 9 7<br><pre>|<pre>12,57 12,57 interno<br>28,27 18,85 externo<br>78,54 31,42 pertence<pre>|
+|<pre><br>3<br>3 1 2 2 0<br>4.3 2.4 3 5.12 6.23<br>5 4 5 9 7<br><pre>|<pre>12.57 12.57 interno<br>28.27 18.85 externo<br>78.54 31.42 pertence<pre>|
 
 ## Dicas
  - $\ PI = 3.141592 $
