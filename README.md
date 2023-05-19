@@ -1,4 +1,4 @@
-# EX1 - Estruturas básicas no Java
+# EX3 - Estruturas básicas no Java
 
 ## Objetivo
 Este exercício tem como objetivo fornecer prática no uso das estruturas básicas de controle do Java, como estruturas condicionais e de repetição.
@@ -33,4 +33,4 @@ Certifique-se de implementar todas as funcionalidades e testar o seu programa pa
 ## Entrega
 Após concluir o programa, envie os arquivos fontes respeitando a hierarquia de pastas para o repositório. Os testes criados estão baseados nessa estrutura.
 
-**Observação:** Neste exercício, não é necessário utilizar conceitos de orientação a objetos.
+**Observação:** Neste exercício, não devem ser utilizados conceitos de orientação a objetos.
